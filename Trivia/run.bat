@@ -1,0 +1,2 @@
+java Trivia.class
+pause

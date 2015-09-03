@@ -1,0 +1,2 @@
+java LifeGame.class 
+pause

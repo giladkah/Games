@@ -1,0 +1,2 @@
+java Quinto.class 
+pause
